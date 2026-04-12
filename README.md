@@ -1,2 +1,2 @@
 # ADS
-Repositório do Curso de Análise e Desenvolvimento de Sistemas
+Repositório do Curso de Análise e Desenvolvimento de Sistemas - 2026
