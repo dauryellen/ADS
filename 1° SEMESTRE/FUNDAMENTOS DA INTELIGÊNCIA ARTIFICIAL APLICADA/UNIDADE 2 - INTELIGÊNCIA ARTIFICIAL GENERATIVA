@@ -1,0 +1,55 @@
+# Unidade 2 - Inteligência Artificial Generativa
+
+## Vamos mergulhar na **Inteligência Artificial Generativa**, que é a tecnologia que está transformando o mercado de trabalho atual.
+
+### 1. O que é Inteligência Artificial Generativa?
+
+Diferente da IA tradicional, que serve apenas para analisar ou classificar dados (como decidir se uma foto é de um gato ou de um cachorro), a **IA Generativa é capaz de criar novos conteúdos inéditos**, como textos, imagens, músicas, códigos de programação e vídeos.
+
+- **Exemplo prático:** Se você pedir a uma IA tradicional para analisar mil contratos, ela pode te dizer quantos são sobre aluguel. Se você pedir a uma **IA Generativa**, ela pode **escrever um contrato de aluguel totalmente novo** para você.
+
+### 2. O "Motor": LLMs (Grandes Modelos de Linguagem)
+
+Dentro da IA Generativa, temos os **LLMs** (como o ChatGPT). Eles são treinados com volumes imensos de texto para aprender os padrões da linguagem humana.
+
+- **Como funciona:** O modelo aprende a prever qual é a próxima palavra mais provável em uma frase, baseando-se no contexto anterior.
+- **Exemplo:** Se você começa a frase "O céu está...", o modelo sabe que a próxima palavra provável é "azul" ou "nublado", e não "sapato".
+
+### 3. Como nos comunicamos: O Prompt
+
+Um **prompt** é a instrução em linguagem natural que você dá à IA para que ela realize uma tarefa. Para que a resposta seja boa, o prompt precisa de três elementos:
+
+1.  **Clareza:** Diga exatamente o que quer (ex: "Escreva um e-mail" em vez de "Faça um texto").
+2.  **Especificidade:** Dê detalhes (ex: "Um e-mail formal de 3 parágrafos para meu chefe").
+3.  **Contexto:** Explique a situação (ex: "Sou analista de marketing e preciso pedir um aumento baseado nas metas batidas").
+
+### 4. Técnicas de "Professor": Engenharia de Prompt
+
+A **Engenharia de Prompt** é a arte de refinar essas instruções para obter resultados profissionais. Algumas técnicas poderosas incluem:
+
+- **Cadeia de Pensamento (Chain of Thought):** Pedir à IA para explicar o passo a passo de um raciocínio. Isso evita erros lógicos.
+  - _Exemplo:_ "Explique como fazer um planejamento de marketing, passo a passo".
+- **Few-shot Learning:** Dar alguns exemplos à IA antes de pedir a tarefa final.
+  - _Exemplo:_ Você mostra dois e-mails que você escreveu e pede: "Agora escreva um terceiro e-mail seguindo este mesmo estilo".
+- **Árvore de Pensamentos (Tree of Thoughts):** A IA explora várias possibilidades e ramificações de uma ideia antes de escolher a melhor conclusão.
+
+### 5. Riscos e Ética
+
+A IA Generativa é **não determinística**, o que significa que ela pode dar respostas diferentes para o mesmo pedido. Isso permite criatividade, mas traz riscos como:
+
+- **Alucinação:** A IA pode inventar fatos ou dados falsos com muita convicção.
+- **Viés:** Ela pode reproduzir preconceitos presentes nos dados em que foi treinada.
+- **Privacidade:** Dados sensíveis nunca devem ser compartilhados sem cuidado.
+
+---
+
+### 🚀 O que você deve aprender primeiro? (Sua trilha de estudos)
+
+Siga esta ordem lógica para dominar o conteúdo das fontes:
+
+1.  **Fundamentos da IA Generativa:** Entenda a diferença entre modelos que classificam e modelos que criam.
+2.  **Conceito de LLMs:** Aprenda como os modelos de linguagem processam texto e a diferença entre pré-treinamento e ajuste fino.
+3.  **Estrutura de Prompts Básicos:** Pratique a criação de instruções usando Clareza, Especificidade e Contexto.
+4.  **Parâmetros de Controle:** Aprenda a usar a **Temperatura** (baixa para textos técnicos/precisos e alta para criatividade) e o **Top-p**.
+5.  **Engenharia de Prompt Avançada:** Estude técnicas como _Chain of Thought_, _Prompt Chaining_ (encadear várias tarefas menores) e _Few-shot Learning_.
+6.  **Principais Ferramentas:** Explore o que cada "player" (OpenAI, Google, Microsoft, Anthropic) oferece de melhor para sua área de atuação.
